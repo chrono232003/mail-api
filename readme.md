@@ -29,6 +29,18 @@ Here is a good tutorial: https://www.npmjs.com/get-npm
 
       }
       ```
+   * sample request:
+   ```
+   {
+      "from": "noreply@mybrightwheel.com",
+      "from_name": "brightwheel",
+      "to": "susan@abcpreschool.org",
+      "to_name": "Miss Susan",
+      "subject": "Your Weekly Report",
+      "body": "<h1>Weekly Report</h1><p>You saved 10 hours this week!</p>"
+   }
+
+   ```
 
 
 # Language and Libraries
