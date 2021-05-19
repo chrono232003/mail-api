@@ -21,6 +21,14 @@ Here is a good tutorial: https://www.npmjs.com/get-npm
 1. There is one api service endpoint that should be 'http://127.0.0.1:3000/send'.
     * It will need to be ran as a POST request.
     * This can be ran in Postman or curl on the terminal.
+    * sample header:
+      ```
+      {
+         Content-Type: application/json
+         X-Api-Key: api_key_gdwLr04X4DWUUVXhEkLxZJtX
+
+      }
+      ```
 
 
 # Language and Libraries
